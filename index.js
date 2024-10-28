@@ -4,4 +4,16 @@ function isTwentyEight(number) {
     return number === 28;
 }
 
-module.exports = isTwentyEight;
+function isTwentyEightYesNo(number)
+{
+    if (number === 28)
+    {
+        return "yes";
+    }
+    else
+    {
+        return "no";
+    }
+}
+
+module.exports = {isTwentyEight,isTwentyEightYesNo}
