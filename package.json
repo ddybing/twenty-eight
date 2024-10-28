@@ -1,6 +1,6 @@
 {
   "name": "twenty-eight",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A silly npm package to check whether a number is equal to twenty-eight or not.",
   "main": "index.js",
   "scripts": {
